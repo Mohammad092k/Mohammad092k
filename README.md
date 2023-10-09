@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack,React js,**
 
-- 💬 Ask me about **C++,C,Web Development**
+- 💬 Ask me about **C++,C,Web Development,DSA**
 
 - 📫 How to reach me **mkaif1617@gmail.com**
 
