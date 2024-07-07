@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Computer Vision**
 
-- 💬 Ask me about **C,C++,Web Development**
+- 💬 Ask me about **C,C++,Web Development,Data Structures and Algorithms , OOPS , CS Fundamentals**
 
 - 📫 How to reach me **mkaif1617@gmail.com**
 
