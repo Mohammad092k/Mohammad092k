@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammad092k" alt="mohammad092k" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack,React js,**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 💬 Ask me about **C,C++,Web Development**
 
